@@ -7,7 +7,7 @@
 package routers
 
 import (
-	ap "github.com/moemoe89/practicing-memcached-golang/api"
+	ap "github.com/moemoe89/go-memcached-elen/api"
 
 	"github.com/gorilla/mux"
 	"github.com/sirupsen/logrus"

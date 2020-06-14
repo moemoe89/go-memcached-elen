@@ -7,8 +7,8 @@
 package api_test
 
 import (
-	"github.com/moemoe89/practicing-memcached-golang/config"
-	"github.com/moemoe89/practicing-memcached-golang/routers"
+	"github.com/moemoe89/go-memcached-elen/config"
+	"github.com/moemoe89/go-memcached-elen/routers"
 
 	"net/http"
 	"net/http/httptest"

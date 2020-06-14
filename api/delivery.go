@@ -7,9 +7,9 @@
 package api
 
 import (
-	"github.com/moemoe89/practicing-memcached-golang/api/api_struct/form"
-	"github.com/moemoe89/practicing-memcached-golang/api/api_struct/model"
-	cons "github.com/moemoe89/practicing-memcached-golang/constant"
+	"github.com/moemoe89/go-memcached-elen/api/api_struct/form"
+	"github.com/moemoe89/go-memcached-elen/api/api_struct/model"
+	cons "github.com/moemoe89/go-memcached-elen/constant"
 
 	"encoding/json"
 	"io/ioutil"

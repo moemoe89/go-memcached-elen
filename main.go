@@ -7,9 +7,9 @@
 package main
 
 import (
-	ap "github.com/moemoe89/practicing-memcached-golang/api"
-	conf "github.com/moemoe89/practicing-memcached-golang/config"
-	"github.com/moemoe89/practicing-memcached-golang/routers"
+	ap "github.com/moemoe89/go-memcached-elen/api"
+	conf "github.com/moemoe89/go-memcached-elen/config"
+	"github.com/moemoe89/go-memcached-elen/routers"
 
 	"fmt"
 	"net/http"
