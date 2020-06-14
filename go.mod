@@ -1,4 +1,4 @@
-module github.com/moemoe89/practicing-memcached-golang
+module github.com/moemoe89/go-memcached-elen
 
 go 1.13
 

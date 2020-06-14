@@ -1,6 +1,6 @@
 [![CircleCI](https://circleci.com/gh/moemoe89/practicing-memcached-golang.svg?style=svg)](https://circleci.com/gh/moemoe89/practicing-memcached-golang)
 [![codecov](https://codecov.io/gh/moemoe89/practicing-memcached-golang/branch/master/graph/badge.svg)](https://codecov.io/gh/moemoe89/practicing-memcached-golang)
-[![Go Report Card](https://goreportcard.com/badge/github.com/moemoe89/practicing-memcached-golang)](https://goreportcard.com/report/github.com/moemoe89/practicing-memcached-golang)
+[![Go Report Card](https://goreportcard.com/badge/github.com/moemoe89/go-memcached-elen)](https://goreportcard.com/report/github.com/moemoe89/go-memcached-elen)
 
 # PRACTICING-MEMCACHED-GOLANG #
 
