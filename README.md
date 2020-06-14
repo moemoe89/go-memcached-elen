@@ -1,8 +1,8 @@
-[![CircleCI](https://circleci.com/gh/moemoe89/practicing-memcached-golang.svg?style=svg)](https://circleci.com/gh/moemoe89/practicing-memcached-golang)
-[![codecov](https://codecov.io/gh/moemoe89/practicing-memcached-golang/branch/master/graph/badge.svg)](https://codecov.io/gh/moemoe89/practicing-memcached-golang)
+[![CircleCI](https://circleci.com/gh/moemoe89/go-memcached-elen.svg?style=svg)](https://circleci.com/gh/moemoe89/go-memcached-elen)
+[![codecov](https://codecov.io/gh/moemoe89/go-memcached-elen/branch/master/graph/badge.svg)](https://codecov.io/gh/moemoe89/go-memcached-elen)
 [![Go Report Card](https://goreportcard.com/badge/github.com/moemoe89/go-memcached-elen)](https://goreportcard.com/report/github.com/moemoe89/go-memcached-elen)
 
-# PRACTICING-MEMCACHED-GOLANG #
+# GO-MEMCACHED-ELEN #
 
 Practicing Memcached Using Golang (Mux Framework) as Programming Language, Memcached as Database
 
@@ -13,7 +13,7 @@ Your project directory structure should look like this
   |
   +--+ src/github.com/moemoe89
   |  |
-  |  +--+ practicing-memcached-golang/
+  |  +--+ go-memcached-elen/
   |     |
   |     +--+ main.go
   |        + api/
@@ -39,7 +39,7 @@ Your project directory structure should look like this
 $ mkdir -p src/github.com/moemoe89
 $ cd src/github.com/moemoe89
 $ git clone <url>
-$ mv <cloned directory> practicing-memcached-golang
+$ mv <cloned directory> go-memcached-elen
 ```
 
 ## Running Application

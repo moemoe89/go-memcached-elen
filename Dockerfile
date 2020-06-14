@@ -9,4 +9,4 @@ COPY . /go/src/github.com/moemoe89/go-memcached-elen
 RUN go mod download
 RUN go install
 
-ENTRYPOINT /go/bin/practicing-memcached-golang
+ENTRYPOINT /go/bin/go-memcached-elen
